@@ -1,0 +1,17 @@
+H1 {
+    color: aqua;
+    font-family: sans-serif;
+}
+button {
+    font-size: larger;
+    font-family: sans-serif;
+    color: blueviolet;
+    background-color: aqua;
+}
+h2 {
+    color: bisque;
+}
+label {
+    font-size: x-large;
+    color: aqua;
+}
